@@ -1,3 +1,5 @@
 mchatbot/
 model/
 data/
+.env
+sorting.ipynb
